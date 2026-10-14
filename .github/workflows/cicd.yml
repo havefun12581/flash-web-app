@@ -57,3 +57,4 @@ jobs:
         env:
           TOUGE_SSH_PRIVATE_KEY: ${{ secrets.TOUGE_SSH_PRIVATE_KEY }}
           TOUGE_SERVER_IP: ${{ secrets.TOUGE_SERVER_IP }}
+
